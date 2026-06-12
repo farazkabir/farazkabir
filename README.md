@@ -1,6 +1,6 @@
 # Hi, I'm Faraz 👋
 
-AI researcher and developer in Perth, Australia. Finishing my Master of IT at the University of Western Australia (July 2026), where I research generative AI and computer vision. I also train and evaluate LLMs for code generation at DataAnnotation, and spent 2.5+ years as a front-end developer before moving into AI.
+AI researcher and developer in Perth, Australia. Finishing my Master of IT at the University of Western Australia (July 2026), where I research generative AI and computer vision. I also train and evaluate LLMs for code generation, and spent 2.5+ years as a front-end developer before moving into AI.
 
 ## 🔬 Current research
 
