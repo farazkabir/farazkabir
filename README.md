@@ -21,8 +21,7 @@ AI researcher and developer in Perth, Australia. Finishing my Master of IT at th
 ## 📄 Publications
 
 - XAI-Enhanced Machine Learning for Obesity Risk Classification: A Stacking Approach With LIME Explanations — *IEEE Access*, 2025 ([paper](https://ieeexplore.ieee.org/abstract/document/10843688))
-- Book Cover Synthesis from the Summary
-- Shapes2Toon: Generating Cartoon Characters from Simple Geometric Shapes
+- Book Cover Synthesis from the Summary ([paper]([https://ieeexplore.ieee.org/abstract/document/10843688](https://ieeexplore.ieee.org/document/10017541)))
 
 ## 📫 Contact
 
